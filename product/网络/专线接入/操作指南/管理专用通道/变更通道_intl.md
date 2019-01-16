@@ -1,2 +1,2 @@
-You can change the interconnection IP and peer IP address range. If you need to change the VLANID of a Direct Connect tunnel, delete the existing tunnel and re-create one.
-You cannot submit the ticket for change of the Direct Connect tunnel to the Direct Connect manager offline. Submit your change requirement in the console.
+Find the Dedicated Tunnel ID in the Direct Connect Console, then click Modify on the right. 
+After confirming the modifying action, the system will automatically re-configure within 10 minutes.
